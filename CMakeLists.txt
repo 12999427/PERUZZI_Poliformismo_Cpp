@@ -4,4 +4,7 @@ project(PERUZZI_Poliformismo_Cpp)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(PERUZZI_Poliformismo_Cpp main.cpp
-        Es1.cpp)
+        Es1.h
+        Es2.h
+        Es3.h
+        Es4.h)
